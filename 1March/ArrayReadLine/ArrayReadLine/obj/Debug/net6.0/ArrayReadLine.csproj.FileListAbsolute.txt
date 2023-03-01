@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\bin\Debug\net6.0\ArrayReadLine.exe
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\bin\Debug\net6.0\ArrayReadLine.deps.json
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\bin\Debug\net6.0\ArrayReadLine.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\bin\Debug\net6.0\ArrayReadLine.dll
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\bin\Debug\net6.0\ArrayReadLine.pdb
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.dll
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\refint\ArrayReadLine.dll
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.pdb
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ArrayReadLine.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\BP104\1March\ArrayReadLine\ArrayReadLine\obj\Debug\net6.0\ref\ArrayReadLine.dll
