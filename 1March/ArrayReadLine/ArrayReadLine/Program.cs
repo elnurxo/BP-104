@@ -13,7 +13,7 @@
                 sizeStr = Console.ReadLine();
             } while (!int.TryParse(sizeStr,out size));
 
-            size = Convert.ToInt32(sizeStr);
+            //size = Convert.ToInt32(sizeStr);
 
             //initializing empty array
             double[] points = new double[size];
