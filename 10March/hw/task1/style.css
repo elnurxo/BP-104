@@ -1,0 +1,22 @@
+.first-p {
+    color: green;
+}
+.second-p{
+    border-bottom: 2px solid darkred;
+}
+.third-p {
+    border: 1px dashed black;
+}
+.fourth-p{
+ background-color: blue;
+} 
+.fifth-p {
+    font-size: 25px;
+}
+button {
+    background-color: green;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 25px;
+    border: none;
+}

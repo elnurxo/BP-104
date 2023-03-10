@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.button{
+    background-color: lightskyblue;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+/* .container{
+    border: 1px solid black;
+    height: 100vh;
+    width: 80%;
+    margin: 0 auto;
+}
+header{
+    height: 90px;
+    background-color: rgb(44,62,80);
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+.links{
+    float: right;
+}
+ul li{
+    display: inline;
+    margin-right: 20px;
+} */
+.box{
+    background-color: red;
+}
+.card{
+    margin-bottom: 30px;
+}

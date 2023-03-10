@@ -1,0 +1,23 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: seagreen;
+    border: 5px dashed lightgreen;
+    /* padding: 20px 15px 40px 50px; */
+    /* padding: 20px 30px; */
+    padding: 20px;
+    margin: 20px 50px;
+    border-radius: 20px;
+    color: white;
+    /* outline: 2px solid black; */
+}
+
+span{
+    background-color: hotpink;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+p{
+    background-color: indianred;
+    margin-top: 100px;
+}
