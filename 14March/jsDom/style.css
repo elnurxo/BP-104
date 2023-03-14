@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+}
+.container{
+    margin-top: 200px;
+}
+.to-do-wrapper{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 6px;
+    padding: 20px;
+}
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+.wrapper form,ul{
+    width: 100%;
+}

@@ -16,19 +16,27 @@ let paragraph = document.querySelector(".paragraph"); //class name
 let span = document.querySelector("span");
 
 let clear = document.querySelector("#clear");
-
-
 let addBtn = document.querySelector("#add");
 let list = document.querySelector("ul");
 var count = 1;
+let input = document.querySelector("input");
 addBtn.addEventListener("click",()=>{
-    list.innerHTML += `<li>${count}</li>`;
-    count++;
+    // list.innerHTML += `<li>${count}</li>`;
+    list.innerHTML += `<li>${input.value}</li>`;
+    input.value = "";
 });
 
 clear.addEventListener("click",function() {
     list.innerHTML = "";
 })
+
+let changeStyle = document.querySelector("#heading");
+
+changeStyle.addEventListener("click",function () {
+    heading1.style.color = "red";
+    heading1.style.fontSize = "60px";
+    heading1.textContent = "CLICKED!";
+});
 
 
 
@@ -41,3 +49,33 @@ clear.addEventListener("click",function() {
 // console.log(span);
 // console.log(allParagraphs[1]);
 // console.log(allSpan[0]);
+
+//---------------------------
+let paragraphes = document.querySelectorAll("p");
+let btn = document.querySelector("#btn-2");
+
+btn.addEventListener("click",()=>{
+    for (let index = 0; index < paragraphes.length; index++) {
+        paragraphes[index].style.color = "red";
+    }
+});
+
+let increase = document.querySelector("#increase");
+let decrease = document.querySelector("#decrease");
+let counter = document.querySelector("#counter");
+let count1 = +counter.textContent+1;
+increase.addEventListener("click",function(){
+    counter.textContent = count1++;
+    console.log(counter.textContent);
+})
+decrease.addEventListener("click",function(){
+count1 = +counter.textContent-1;
+    if (counter.textContent>0) {
+        counter.textContent = count1--;
+    }
+    else if(+counter.textContent==0){
+        decrease.style.backgroundColor = "red";
+    }
+})
+
+
