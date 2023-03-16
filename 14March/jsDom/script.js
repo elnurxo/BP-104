@@ -60,4 +60,4 @@ let clearAll = document.querySelector("#clear");
 
 clearAll.addEventListener("click",function(){
     list.innerHTML = "";
-});
+}); 
