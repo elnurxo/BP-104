@@ -1,0 +1,103 @@
+header{
+    height: 60px;
+    border-bottom: 1px solid lightgray;
+}
+nav, .navbar-wrapper{
+    height: 100%;
+}
+/* dark mode */
+.dark-nav{
+    background-color: rgb(43,56,68);
+    color: white;
+}
+.dark-main{
+    background-color: rgb(32,44,54);
+}
+
+.mode-wrapper{
+    cursor: pointer;
+    user-select: none;
+}
+main{
+    background-color: rgb(250,250,250);
+    padding-top: 45px;
+}
+.input-wrapper input{
+    padding: 15px 10px;
+    border: none;
+}
+.dark-input, .dark-select{
+    background-color: rgb(43,56,68);
+    color: white;
+}
+
+.dark-input::placeholder{
+    color: white;
+}
+.select-wrapper select{
+    padding: 15px 10px;
+    border: none;
+}
+.card{
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.dark-card{
+    background-color: rgb(43,56,68);
+    color: white;
+}
+.card-body{
+    height: 200px;
+}
+.card-row{
+    margin-top: 40px;
+}
+.card-data p{
+    margin-bottom: 0;
+}
+.card-wrapper{
+    margin-top: 20px;
+}
+@media only screen and (max-width: 768px) {
+    .input-wrapper{
+        margin-bottom: 20px;
+    }
+}
+.back{
+    cursor: pointer;
+}
+.back a{
+    text-decoration: none;
+    color: black;
+}
+.img-wrapper{
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.img-wrapper img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.data-1 p, .data-2 p{
+    margin-bottom: 5px !important;
+}
+.borders-title{
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+.borders-list{
+    margin-bottom: 0;
+}
+.borders-list li{
+    border: 1px dotted rgb(227, 227, 227);
+    border-radius: 6px;
+    margin-right: 7px;
+    padding: 5px 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.detail-main{
+    height: 90vh;
+}
